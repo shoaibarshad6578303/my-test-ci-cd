@@ -36,7 +36,7 @@ jobs:
     - name: Build and Push Docker Image 
       uses: mr-smithers-excellent/docker-build-push@v6
       with:
-        image: shaoibarsahd/hello-docker
+        image: shaoibarsahd/test
         registry: docker.io
         username: shoaibarshad6578303@gmail.com
         password: shoaib6578303
