@@ -38,5 +38,5 @@ jobs:
       with:
         image: shaoibarsahd/hello-docker
         registry: docker.io
-        username: ${{ secrets.DOCKER_USERNAME }}
-        password: ${{ secrets.DOCKER_PASSWORD }}
+        username: shoaibarshad6578303@gmail.com
+        password: shoaib6578303
